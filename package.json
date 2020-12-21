@@ -28,7 +28,7 @@
     "linez": "^4.1.4",
     "scrape-it": "^3.3.2",
     "standard": "^16.0.3",
-    "tinyreq": "^3.2.5"
+    "tinyreq": "^3.4.2"
   },
   "directories": {
     "example": "examples"
