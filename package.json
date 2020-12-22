@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/masterT/bandcamp-scraper"
+    "url": "https://github.com/addiebarron/bandcamp-scraper"
   },
   "author": "Simon Thiboutôt <salut@simonthiboutot.com> (http://simonthiboutot.com)",
   "license": "MIT",
@@ -24,11 +24,8 @@
   "dependencies": {
     "ajv": "^4.11.8",
     "cheerio": "^0.22.0",
-    "json5": "^0.5.1",
-    "linez": "^4.1.4",
     "scrape-it": "^3.3.2",
-    "standard": "^16.0.3",
-    "tinyreq": "^3.3.0"
+    "standard": "^16.0.3"
   },
   "directories": {
     "example": "examples"
