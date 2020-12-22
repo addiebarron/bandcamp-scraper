@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ajv": "^4.11.8",
-    "cheerio": "^0.22.0",
-    "scrape-it": "^3.3.2",
+    "jquery": "^3.5.1",
+    "scrape-it": "^3.3.2"
   }
 }
