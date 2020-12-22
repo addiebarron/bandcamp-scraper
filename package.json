@@ -1,44 +1,15 @@
 {
-  "name": "bandcamp-scraper",
-  "version": "1.3.0",
-  "description": "A scraper for https://bandcamp.com",
+  "name": "bandcamp-search-scraper",
+  "version": "0.0.1",
+  "description": "Pared down scraper for https://bandcamp.com",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "standard && jasmine",
-    "lint": "standard",
-    "lint-fix": "standard --fix"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/addiebarron/bandcamp-scraper"
-  },
-  "author": "Simon Thiboutôt <salut@simonthiboutot.com> (http://simonthiboutot.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/masterT/bandcamp-scraper/issues"
-  },
-  "homepage": "https://github.com/masterT/bandcamp-scraper",
-  "devDependencies": {
-    "jasmine": "^2.8.0"
+    "url": "https://github.com/addiebarron/bandcamp-search-scraper"
   },
   "dependencies": {
     "ajv": "^4.11.8",
     "cheerio": "^0.22.0",
     "scrape-it": "^3.3.2",
-    "standard": "^16.0.3"
-  },
-  "directories": {
-    "example": "examples"
-  },
-  "keywords": [
-    "scraper",
-    "api",
-    "bandcamp",
-    "music",
-    "resources",
-    "album",
-    "song",
-    "product",
-    "fan"
-  ]
+  }
 }
