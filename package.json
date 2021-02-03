@@ -8,7 +8,6 @@
     "url": "https://github.com/addiebarron/bandcamp-search-scraper"
   },
   "dependencies": {
-    "ajv": "^4.11.8",
     "jquery": "^3.5.1",
     "scrape-it": "^3.3.2"
   }
